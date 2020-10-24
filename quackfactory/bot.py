@@ -12,7 +12,7 @@ cog_commands = (
 
 class QuackFactory(commands.Bot):
   def __init__(self):
-    super().__init__(command_prefix='planty ', intents=config.get_intents())  
+    super().__init__(command_prefix='quack ', intents=config.get_intents())  
     
     # This will have to change to cog_commands instead of a hard coded string
     self.load_extension('cogs.reactions')

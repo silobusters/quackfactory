@@ -44,5 +44,3 @@ def main():
 
 if __name__ == '__main__':
 	main()
-	#quackfactory = Quackfactory(intents=config.get_intents())
-	#quackfactory.run(config.TOKEN)
