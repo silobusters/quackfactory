@@ -1,0 +1,4 @@
+*.swp
+__pycache__
+quack.log
+.DS_Store
