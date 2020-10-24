@@ -2,3 +2,4 @@
 __pycache__
 quack.log
 .DS_Store
+config.py
